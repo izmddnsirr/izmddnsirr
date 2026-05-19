@@ -4,7 +4,7 @@
 
 `Software Engineering Student · Full-Stack & AI Developer · UTHM`
 
-I'm a Computer Science (Software Engineering) student at Universiti Tun Hussein Onn Malaysia, passionate about building scalable full-stack applications, cloud-integrated systems, and AI-driven solutions. Currently seeking an industrial training opportunity from `August 2026 – January 2027`.
+I'm a Computer Science (Software Engineering) student at Universiti Tun Hussein Onn Malaysia, passionate about building scalable full-stack applications, cloud-integrated systems, and AI-driven solutions. Currently seeking an industrial training opportunity from `3 August 2026 – 15 January 2027`.
 
 </div>
 
@@ -44,7 +44,11 @@ I'm a Computer Science (Software Engineering) student at Universiti Tun Hussein 
 **Tools & Concepts** <br><br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-`Agile` · `UML` · `System Design` · `CI/CD` · `API Integration`
+![Agile](https://img.shields.io/badge/AGILE-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=diagramsdotnet&logoColor=black)
+![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_INTEGRATION-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
